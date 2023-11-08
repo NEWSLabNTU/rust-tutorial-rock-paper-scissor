@@ -1,4 +1,4 @@
-//! A paper-scissor-rock gameplay client to demonstrate Rust's
+//! A rock-paper-scissor gameplay client to demonstrate Rust's
 //! async/.await feature.
 //!
 //! The code is written in a more readable way along with line-by-line

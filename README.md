@@ -1,6 +1,6 @@
-# Rust async/.await Starter: Paper-Scissor-Rock Game
+# Rust async/.await Starter: Rock-Paper-Scissor Game
 
-This project provies a paper-scissor-rock client example to
+This project provies a rock-paper-scissor client example to
 demonstrate Rust's async/.await feature.
 
 The code is written in a more readable way along with line-by-line
